@@ -1,6 +1,6 @@
 # How to Apply the Row Mouse Hover Effect in WinForms DataGrid?
 
-This example illustrates how to apply the row mouse hover effect in [WinForms DataGrid](https://www.syncfusion.com/winforms-ui-controls/datagrid) (SfDataGrid)?
+This example illustrates how to apply the row mouse hover effect in [WinForms DataGrid](https://www.syncfusion.com/winforms-ui-controls/datagrid) (SfDataGrid).
 
 By default, `DataGrid` does not provide the direct support for change the background color when mouse hover. You can change the background color by using [SfDataGrid.QueryCellStyle](https://help.syncfusion.com/cr/windowsforms/Syncfusion.WinForms.DataGrid.SfDataGrid.html#Syncfusion_WinForms_DataGrid_SfDataGrid_QueryCellStyle) event.
 
@@ -41,4 +41,4 @@ void TableControl_MouseMove(object sender, MouseEventArgs e)
 }
 ```
 
-![DataGrid applied with mouse hover effect](DataGridWithMouseHover.png)
+![DataGrid applied with mouse hover effect](DataGridWithMouseHover.gif)
